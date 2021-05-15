@@ -4,6 +4,7 @@
 }
 
 .cenario {
+    position: absolute;
     background: #8587FF;
     width: 710px;
     height: 427px;
@@ -53,61 +54,79 @@
 
 .mario{
     position: absolute;
+    top: 300px;
+    left: 150px;
     background: white;
-    width: 85px;
-    height: 80px;
+    width: 34px;
+    height: 30px;
+    
+}
+
+.goomba{
+    position: absolute;
+    top: 368px;
+    left: 300px;
+    background: white;
+    width: 34px;
+    height: 30px;
     
 }
 .a1 {
     background: black;
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     float: left;
 }
 .azul {
     background: blue;
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     float: left;
 }
 .marrom {
     background: #89733C;
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
+    float: left;
+}
+.marromm {
+    background: #C66700;
+    width: 2px;
+    height: 2px;
     float: left;
 }
 .pele {
     background: #FAFEB8;
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     float: left;
 }
 
 .red {
     background: red;
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     float: left;
 }
 .roxo {
-    background: #8587FF;
+    background: #8287FF;
 
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     float: left;
 }
 
 .amarelo {
     background: #FAFA00;
 
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     float: left;
 }
 
 .preto {
     background: black;
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     float: left;
 }
