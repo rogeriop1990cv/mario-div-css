@@ -54,11 +54,58 @@
 .mario{
     position: absolute;
     background: white;
-    width: 60px;
+    width: 85px;
     height: 80px;
     
 }
 .a1 {
+    background: black;
+    width: 5px;
+    height: 5px;
+    float: left;
+}
+.azul {
+    background: blue;
+    width: 5px;
+    height: 5px;
+    float: left;
+}
+.marrom {
+    background: #89733C;
+    width: 5px;
+    height: 5px;
+    float: left;
+}
+.pele {
+    background: #FAFEB8;
+    width: 5px;
+    height: 5px;
+    float: left;
+}
+
+.red {
+    background: red;
+    width: 5px;
+    height: 5px;
+    float: left;
+}
+.roxo {
+    background: #8587FF;
+
+    width: 5px;
+    height: 5px;
+    float: left;
+}
+
+.amarelo {
+    background: #FAFA00;
+
+    width: 5px;
+    height: 5px;
+    float: left;
+}
+
+.preto {
     background: black;
     width: 5px;
     height: 5px;
