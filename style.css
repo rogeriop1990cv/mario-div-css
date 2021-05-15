@@ -5,7 +5,7 @@
 
 .cenario {
     position: absolute;
-    background: #8587FF;
+    background: #6987FF;
     width: 710px;
     height: 427px;
 }
@@ -118,7 +118,6 @@
 
 .amarelo {
     background: #FAFA00;
-
     width: 2px;
     height: 2px;
     float: left;
@@ -129,4 +128,78 @@
     width: 2px;
     height: 2px;
     float: left;
+}
+
+.marrom-bloco {
+    background: #F99828;
+    width: 2px;
+    height: 2px;
+    float: left;
+}
+.laranja-bloco {
+    background: #C24700;
+    width: 2px;
+    height: 2px;
+    float: left;
+}
+
+.branco {
+    background: white;
+    width: 2px;
+    height: 2px;
+    float: left;
+}
+
+.bloco-interogacao{
+    position: absolute;
+    background: lemonchiffon;
+    width: 34px;
+    height: 33px;
+    display: inline-block;
+
+}
+
+.bloco-parede{
+    position: absolute;
+    background: lemonchiffon;
+    width: 34px;
+    height: 33px;
+    display: inline-block;
+}
+
+/* posições dos objetos div  */
+
+.i-1 {
+    top: 270px;
+    left:340px;
+}
+
+.b-1 {
+    top: 270px;
+    left: 450px;
+}
+
+.i-2 {
+    top: 270px;
+    left: 484px;
+}
+
+.b-2 {
+    top: 270px;
+    left: 516px;
+}
+
+.i-3 {
+    top: 270px;
+    left: 550px;
+}
+
+.b-3 {
+    top: 270px;
+    left: 582px;
+}
+
+.i-4 {
+    top: 170px;
+    left: 516px;
 }
